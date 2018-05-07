@@ -1,0 +1,46 @@
+body {
+  width: 90%;
+  margin: 0 auto;
+}
+.head{
+    width:98%;float: left;
+    background-color: rgb(98, 99, 96);
+    margin:0;
+    padding:10px 1% 10px 1%;
+}
+.title{
+    width:7%;
+    float: left;
+    background-color: rgb(189, 185, 185);
+    height:40px;
+    margin:auto;
+    padding:30px 1% 30px 1%;
+    text-align: center;
+    border-bottom-width:1px;
+    border-bottom-style:solid;
+    border-color:black;
+}
+.content{
+    height:90px;
+    width:89%;
+    float: left;
+    margin:auto;
+    padding: 5px 1% 5px 1%;
+    border-bottom-width:1px;
+    border-bottom-style:solid;
+    border-color:black;
+}
+h3{
+    margin:0;
+    font-size:16px;
+    float: left;
+    padding:0;
+    clear: both;
+}
+pre{
+    margin:0;
+    float: left;
+    font-family: "宋体";
+    font-size:16px;
+}
+

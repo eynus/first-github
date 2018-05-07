@@ -1,0 +1,14 @@
+body {
+    width: 90%;
+    margin: 0 auto;
+  }
+  .head{
+     background-color:red;
+     height: 760px;
+     width: 5%;
+     text-align: center;
+     float:left;
+     margin:0 1% 0 0;
+     padding:20px 2% 20px 2%;
+ }
+
